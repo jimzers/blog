@@ -5,7 +5,7 @@ image: /img/lee_adam_skate_portrait.jpg
 heading: jimzers' Place
 subheading: Deep learning, web development, and other cool stuff
 mainpitch:
-  title: " "
+  title: " Make yourself cozy."
   description: " "
 description: Welcome to my blog! My name is Adam Lee, and I love machine
   learning and web development! I especially like deep learning and its
