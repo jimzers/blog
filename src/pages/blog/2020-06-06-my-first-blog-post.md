@@ -1,14 +1,18 @@
 ---
 templateKey: blog-post
 title: My First Blog Post!
-date: 2020-06-06T08:54:07.377Z
+date: 2020-06-06T09:29:05.823Z
 description: After many sweaty days and nights, I finally have a working blog. Seriously.
 featuredpost: true
 featuredimage: /img/seriously.jpg
 tags:
   - "#first-post"
 ---
-###### Finally. After countless tries, I've finally been able to make a working blog.
+![](/img/seriously.jpg)
+
+*Seriously.*
+
+###### After countless tries, I've finally been able to make a working blog.
 
 My sincere thanks go out to Stanley... He helped me learn about Gatsby, Netlify, and JAMstack. This is a godsend. Here are some of the stuff I tried before this:
 
@@ -23,6 +27,8 @@ My sincere thanks go out to Stanley... He helped me learn about Gatsby, Netlify,
    I then learned that you could deploy React Apps to Github Pages hosting, so I looked more into it. This is how far I got:
 
    ![My beautiful website.](/img/oldbadwebsite.png "Pleasing on the eyes.")
+
+   *Pleasing on the eyes.*
 
    After pulling an all-nighter with some Flexbox and Sass styling (building styles from scratch is hard!), I eventually decided to switch to Bootstrap. Luckily I had hotpot with some friends and they suggested I use Material UI.
 
