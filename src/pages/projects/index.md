@@ -33,7 +33,9 @@ main:
   image3:
     alt: "todo: todo"
     image: /img/cat-looking-at-mirror.jpg
-testimonials: []
+testimonials:
+  - quote: Adam told me to write a quote for him.
+    author: Anonymous
 full_image: /img/koalashugging.jpeg
 pricing:
   heading: Monthly hugging subscriptions
