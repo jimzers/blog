@@ -16,10 +16,8 @@ intro:
   blurbs: []
   heading: jimzers' Place
   description: Welcome to my blog! My name is Adam Lee, and I love machine
-    learning and web development! I especially like deep learning and its
-    applications to reinforcement learning and generative models. Some research
-    interests of mine include multi-agent reinforcement learning, safe
-    reinforcement learning, and sampling efficiency in reinforcement learning!
+    learning and web development! Some interests of mine include robotics, deep
+    learning, generative models, and reinforcement learning.
 main:
   heading: jimzers' Place
   description: Welcome to my blog! My name is Adam Lee, and I love machine
