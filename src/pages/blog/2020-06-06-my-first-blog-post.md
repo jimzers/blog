@@ -3,7 +3,7 @@ templateKey: blog-post
 title: My First Blog Post!
 date: 2020-06-06T09:29:05.823Z
 description: After many sweaty days and nights, I finally have a working blog. Seriously.
-featuredpost: true
+featuredpost: false
 featuredimage: /img/seriously.jpg
 tags:
   - "#first-post"
